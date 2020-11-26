@@ -37,7 +37,7 @@ Cuit à la vapeur / Mixe
 ## **Cube découverte** : 15€
 [![cube](https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil4-small.png)][cube]
 
-[coussin réducteur]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur.png
+[coussin réducteur]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur.jpg
 [anneau de bain]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain.png
 [transat de bain]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/transat%20bain.png
 [robot puréé]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/robot%20pur%C3%A9e2-small.png
