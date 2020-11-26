@@ -1,7 +1,7 @@
 # **Affaires bébé**
 
 ## **coussin réducteur** : 10€
-[![coussin réducteur](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur-small.png)][réducteur]
+[![coussin réducteur](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur-small.png)]Réducteur]
 
 
 ## **Anneau de bain** : 7€
