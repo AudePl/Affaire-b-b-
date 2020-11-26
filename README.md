@@ -44,6 +44,7 @@ Cuit à la vapeur / Mixe
 [chariot]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/d%C3%A9ambulateur-small.png
 [tapis1]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/tapis%20eveil%201-small.png
 [tapis2]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/tapis%20eveil%202-small.png
+[table]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/table%20eveil-small.png
 [lot jouet1]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/lot%20jouet%201-small.png
 [lot jouet2]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/lot%20jouet%202-small.png
 [ferme éducative]:https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil3-small.png
