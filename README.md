@@ -33,5 +33,5 @@ Cuit à la vapeur / Mixe
 ## **Ferme éducative bilingue** : 15€
 [![ferme éducative](https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil3-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil3.png)
 
-## **Cube découverte** : 15€
+## **Cube découverte** : 7€
 [![cube](https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil4-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/jeu%20%C3%A9veil4.png)
