@@ -1,10 +1,10 @@
 # **Affaires bébé**
 
 ## **coussin réducteur** : 10€
-[![réducteur](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur.png)
+[![réducteur](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur.png){:target="_blank"}
 
 ## **Anneau de bain** : 7€
-[![anneau de bain](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain.png)
+[![anneau de bain](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain.png){:target="_blank"}
 
 
 ## **Transat de bain** : 7€
