@@ -3,9 +3,7 @@
 ## **coussin réducteur** : 10€
 [![réducteur](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/r%C3%A9ducteur.png)
 
-## **Anneau de bain** : 7€
-[![anneau de bain](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/anneau%20bain.png)
-
+## **~~Anneau de bain~~** ~~: 7€~~
 
 ## **Transat de bain** : 7€
 [![transat de bain](https://github.com/AudePl/Affaire-b-b-/blob/main/images/transat%20bain-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/transat%20bain.png)
@@ -15,8 +13,7 @@ Cuit à la vapeur / Mixe
 
 [![robot purée](https://github.com/AudePl/Affaire-b-b-/blob/main/images/robot%20pur%C3%A9e2-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/robot%20pur%C3%A9e2.png)
 
-## **Chariot de marche** : 20€
-[![chariot](https://github.com/AudePl/Affaire-b-b-/blob/main/images/d%C3%A9ambulateur-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/d%C3%A9ambulateur.png)
+## **~~Chariot de marche~~** ~~: 20€~~
 
 ## **Tapis d'éveil** : 30€
 [![tapis1](https://github.com/AudePl/Affaire-b-b-/blob/main/images/tapis%20eveil%201-small.png)](https://github.com/AudePl/Affaire-b-b-/blob/main/images/tapis%20eveil%201.png)
